@@ -10,7 +10,7 @@
 
 - ❤️ I love reading books and playing badminton!
 
-- 💬 Ask me about anything, I am happy to help [singhanurag5111@gmail.com](mailto:singhanurag5111@gmail.com) 
+- 💬 Ask me about anything, I am happy to help! [singhanurag5111@gmail.com](mailto:singhanurag5111@gmail.com) 
 
 </br>
 
