@@ -4,7 +4,7 @@
 
 **About me**
 
-- 💼 Backend Developer at [Waterdip Labs](https://www.waterdip.ai/)
+- 💼 Backend Developer Intern at [Waterdip Labs](https://www.waterdip.ai/)
 
 - 🎓 Pre-Final Year Undergraduate Student at [IIT Kharagpur](http://www.iitkgp.ac.in/)
 
