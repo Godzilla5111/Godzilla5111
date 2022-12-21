@@ -17,7 +17,7 @@
 **GitHub Stats**
 
 
-| <a href="https://github.com/godzilla5111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=godzilla5111&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/godzilla5111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godzilla5111&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/godzilla5111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=godzilla5111&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/godzilla5111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godzilla5111&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
